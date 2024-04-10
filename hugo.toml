@@ -1,0 +1,63 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'paco.folli'
+theme = ["PaperMod"]
+ShowShareButtons = true
+ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShareButtons = [ "linkedin", "twitter" ]
+
+[params.profileMode]
+enabled = true
+title = "Giacomo Folli"
+subtitle = "Fullstack developer & some other weird things"
+imageUrl = "/images/profile.jpg"
+imageTitle = "Giacomo Folli"
+imageWidth = 170
+imageHeight = 170
+
+# [[params.profileMode.buttons]]
+# name = "Archives"
+# url = "archives"
+
+# [[params.profileMode.buttons]]
+# name = "Tags"
+# url = "tags"
+
+[[params.socialIcons]]
+name = "Instagram"
+url = "https://www.instagram.com/paco.folli/"
+
+[[params.socialIcons]]
+name = "Mastodon"
+url = "https://mastodon.uno/@giacomofolli"
+
+[[params.socialIcons]]
+name = "Youtube"
+url = "https://www.youtube.com/@EnricoSpazio"
+
+[[params.socialIcons]]
+name = "Substack"
+url = "https://altrove.substack.com/"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
+identifier = "archive"
+name = "archives"
+url = "/archives"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "search"
+name = "search"
+url = "/search"
+weight = 30

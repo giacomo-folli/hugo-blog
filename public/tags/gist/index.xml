@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gist on paco.folli</title>
+    <link>http://localhost:1313/tags/gist/</link>
+    <description>Recent content in Gist on paco.folli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Partenza</title>
+      <link>http://localhost:1313/posts/partenza/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/partenza/</guid>
+      <description>Oggi preparativi per il viaggio. Da un po&amp;rsquo; di tempo andavamo avanti a contarcela questa storia del viaggio in pulmino. Io pensavo fosse una delle solite cose che si dicono per provare il brivido del perchè no?, però poi non si fanno mai; invece mi ritrovo a scrivere queste parole per postporre l&amp;rsquo;ineluttabile fatica di fare la valigia(che comunque per me sarà uno zaino).
+Da un po&amp;rsquo;, dicevo, andavamo avanti con questa storia e alla fine ci siamo decisi un po&amp;rsquo; per caso: abbiamo noleggiato un pulmino da sei, una casa (con recensioni preoccupanti) in Slovenia e abbiamo chiesto a ChatGPT di organizzarci il viaggio.</description>
+    </item>
+  </channel>
+</rss>
