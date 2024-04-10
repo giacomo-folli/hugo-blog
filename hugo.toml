@@ -1,4 +1,4 @@
-baseURL = 'https://example.com'
+baseURL = 'https://paco-folli.vercel.app/'
 title = 'paco.folli'
 theme = ["PaperMod"]
 
