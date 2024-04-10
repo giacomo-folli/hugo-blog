@@ -1,7 +1,10 @@
 ---
 title: 'Partenza'
-date: '2024-01-14T07:07:07+01:00'
-draft: false
+date: '2024-01-03T07:07:07+01:00'
+tags: ['slovenia']
+cover:
+  image: https://cdn.masto.host/mastodonuno/media_attachments/files/111/721/480/571/537/490/small/89e9b7253061b14b.jpg
+  caption: "I bro in posa"
 ---
 
 **Oggi preparativi per il viaggio**. Da un po' di tempo andavamo avanti a contarcela questa storia del viaggio in pulmino. Io pensavo fosse una delle solite cose che si dicono per provare il brivido del *perchè no?*, però poi non si fanno mai; invece mi ritrovo a scrivere queste parole per postporre l'ineluttabile fatica di *fare la valigia*(che comunque per me sarà uno zaino).
@@ -20,5 +23,3 @@ Quindi oggi darò i dettagli preparativi.
 **Durata del viaggio**: 5 giorni, dal 3 al 7 gennaio 2024.
 **Mezzo**: Il pulmino noleggiato.
 **La playlist spoty**: [Bled coi Blod](https://open.spotify.com/playlist/3CFekjfRrn2c5q1QKshjZq?si=7edca469ea864848)
-
-![in viaggio](https://cdn.masto.host/mastodonuno/media_attachments/files/111/721/480/571/537/490/small/89e9b7253061b14b.jpg#center)

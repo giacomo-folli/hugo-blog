@@ -3,20 +3,21 @@ title = 'paco.folli'
 theme = ["PaperMod"]
 
 [params]
+env = 'production'
 description = "Paco Folli - https://paco-folli.vercel.app"
 author = "Giacomo Folii"
 ShowShareButtons = true
 ShowReadingTime = true
 displayFullLangName = true
 ShowPostNavLinks = true
-ShowBreadCrumbs = true
+ShowBreadCrumbs = false
 ShowCodeCopyButtons = true
 ShowRssButtonInSectionTermList = true
 ShowAllPagesInArchive = true
 ShowPageNums = true
-ShowToc = true
-images = [ "/images/profile.jpg" ]
-ShareButtons = [ "linkedin", "twitter" ]
+ShowToc = false
+images = ["/images/profile.jpg"]
+ShareButtons = ["linkedin", "twitter"]
 
 [params.profileMode]
 enabled = true
@@ -28,8 +29,12 @@ imageWidth = 170
 imageHeight = 170
 
 [[params.socialIcons]]
+name = "Soundcloud"
+url = "https://soundcloud.com/itspacoti"
+
+[[params.socialIcons]]
 name = "Instagram"
-url = "https://www.instagram.com/paco.folli/"
+url = "https://www.instagram.com/paco.nocap"
 
 [[params.socialIcons]]
 name = "Mastodon"
@@ -44,12 +49,12 @@ name = "Substack"
 url = "https://altrove.substack.com/"
 
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
+home = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
-identifier = "archive"
-name = "archives"
-url = "/archives"
+identifier = "posts"
+name = "posts"
+url = "/posts"
 weight = 10
 
 [[menu.main]]
