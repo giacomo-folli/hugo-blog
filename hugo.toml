@@ -1,11 +1,24 @@
-baseURL = 'https://paco-folli.vercel.app/'
-languageCode = 'it'
+baseURL = 'https://paco-folli.vercel.app'
 title = 'paco.folli'
 theme = ["PaperMod"]
+
+[params]
+env = "production"
+description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+author = "Theme PaperMod"
+defaultTheme = "auto"
 ShowShareButtons = true
 ShowReadingTime = true
-ShowBreadCrumbs = true
+displayFullLangName = true
 ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowAllPagesInArchive = true
+ShowPageNums = true
+ShowToc = true
+images = [ "images/papermod-cover.png" ]
+enableRobotsTXT = true
 ShareButtons = [ "linkedin", "twitter" ]
 
 [params.profileMode]

@@ -2,8 +2,6 @@
 title: "Pittinger"
 date: "2024-01-14T09:09:07+01:00"
 draft: false
-ShowCodeCopyButtons: true
-ShowReadingTime: true
 ---
 
 Una poesia dentro a Javascript

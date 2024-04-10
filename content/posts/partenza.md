@@ -1,8 +1,7 @@
 ---
 title: 'Partenza'
-date: 2024-01-14T07:07:07+01:00
+date: '2024-01-14T07:07:07+01:00'
 draft: false
-ShowReadingTime: true
 ---
 
 **Oggi preparativi per il viaggio**. Da un po' di tempo andavamo avanti a contarcela questa storia del viaggio in pulmino. Io pensavo fosse una delle solite cose che si dicono per provare il brivido del *perchè no?*, però poi non si fanno mai; invece mi ritrovo a scrivere queste parole per postporre l'ineluttabile fatica di *fare la valigia*(che comunque per me sarà uno zaino).
