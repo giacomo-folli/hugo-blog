@@ -1,12 +1,11 @@
-baseURL = 'https://paco-folli.vercel.app'
+baseURL = 'https://paco-folli.vercel.app/public'
 title = 'paco.folli'
 theme = ["PaperMod"]
 
 [params]
 env = "production"
-description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-author = "Theme PaperMod"
-defaultTheme = "auto"
+description = "Paco Folli - https://paco-folli.vercel.app"
+author = "Giacomo Folii"
 ShowShareButtons = true
 ShowReadingTime = true
 displayFullLangName = true
@@ -17,26 +16,17 @@ ShowRssButtonInSectionTermList = true
 ShowAllPagesInArchive = true
 ShowPageNums = true
 ShowToc = true
-images = [ "images/papermod-cover.png" ]
-enableRobotsTXT = true
+images = [ "public/images/profile.jpg" ]
 ShareButtons = [ "linkedin", "twitter" ]
 
 [params.profileMode]
 enabled = true
 title = "Giacomo Folli"
 subtitle = "Fullstack developer & some other weird things"
-imageUrl = "/images/profile.jpg"
+imageUrl = "/public/images/profile.jpg"
 imageTitle = "Giacomo Folli"
 imageWidth = 170
 imageHeight = 170
-
-# [[params.profileMode.buttons]]
-# name = "Archives"
-# url = "archives"
-
-# [[params.profileMode.buttons]]
-# name = "Tags"
-# url = "tags"
 
 [[params.socialIcons]]
 name = "Instagram"
