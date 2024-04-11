@@ -2,43 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://paco-folli.vercel.app/tags/daily/</loc>
+    <lastmod>2024-04-11T16:57:27+02:00</lastmod>
+  </url><url>
+    <loc>https://paco-folli.vercel.app/posts/daily1/</loc>
+    <lastmod>2024-04-11T16:57:27+02:00</lastmod>
+  </url><url>
+    <loc>https://paco-folli.vercel.app/</loc>
+    <lastmod>2024-04-11T16:57:27+02:00</lastmod>
+  </url><url>
+    <loc>https://paco-folli.vercel.app/posts/</loc>
+    <lastmod>2024-04-11T16:57:27+02:00</lastmod>
+  </url><url>
+    <loc>https://paco-folli.vercel.app/tags/</loc>
+    <lastmod>2024-04-11T16:57:27+02:00</lastmod>
+  </url><url>
+    <loc>https://paco-folli.vercel.app/posts/xp/</loc>
     <lastmod>2024-01-11T23:43:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-01-11T23:43:55+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/xp/</loc>
-    <lastmod>2024-01-11T23:43:55+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/gli-ultimi-due-mesi/</loc>
+    <loc>https://paco-folli.vercel.app/posts/gli-ultimi-due-mesi/</loc>
     <lastmod>2024-01-11T23:38:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/lubjanks/</loc>
+    <loc>https://paco-folli.vercel.app/posts/lubjanks/</loc>
     <lastmod>2024-01-06T23:32:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/slovenia/</loc>
+    <loc>https://paco-folli.vercel.app/tags/slovenia/</loc>
     <lastmod>2024-01-06T23:32:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-01-06T23:32:01+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/radovljica/</loc>
+    <loc>https://paco-folli.vercel.app/posts/radovljica/</loc>
     <lastmod>2024-01-05T23:23:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/pittinger/</loc>
+    <loc>https://paco-folli.vercel.app/posts/pittinger/</loc>
     <lastmod>2024-01-04T09:09:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/partenza/</loc>
+    <loc>https://paco-folli.vercel.app/posts/partenza/</loc>
     <lastmod>2024-01-03T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fuoco-percorsi-leggerezza/</loc>
+    <loc>https://paco-folli.vercel.app/posts/fuoco-percorsi-leggerezza/</loc>
     <lastmod>2023-04-16T23:47:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://paco-folli.vercel.app/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://paco-folli.vercel.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://paco-folli.vercel.app/search/</loc>
   </url>
 </urlset>
