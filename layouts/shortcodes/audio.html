@@ -27,8 +27,30 @@
         overflow: hidden;
     }
 
+    @media screen and (max-width: 400px)  {
+        #audio-div > img {
+            display: none;
+        }
+
+        #audio-div {
+            height: 50px;
+        }
+
+        #audio-div audio::-webkit-media-controls-current-time-display {
+            display: none !important;
+        }
+
+        #audio-div audio::-webkit-media-controls-timeline {
+            display: none !important;
+        }
+        
+        #audio-div audio::-webkit-media-controls-panel {
+            display: flex;
+            gap: 35px
+        }
+    }
+
     #p-div {
-        border: 1px solid white ;
         width: fit-content;
         height: 30px;
         margin-left: 20px;
@@ -48,7 +70,6 @@
     }
 
     audio::-webkit-media-controls-panel {
-        border-radius: none;
         display: flex;
         justify-content: center;
         align-items: center;
