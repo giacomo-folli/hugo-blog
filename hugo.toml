@@ -4,8 +4,8 @@ theme = ["PaperMod"]
 
 [params]
 env = 'production'
-description = "Paco Folli - https://paco-folli.vercel.app"
-author = "Giacomo Folii"
+author = "Giacomo Folli"
+description = "Paco Folli - Blog"
 ShowShareButtons = true
 ShowReadingTime = true
 displayFullLangName = true

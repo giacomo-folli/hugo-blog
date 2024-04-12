@@ -30,7 +30,7 @@ _Nei panni stesi al sole (quando c'è) o nei nostri 'oh cazzo' quando ci dimenti
 \
 _Nei colori delle case, che sembrano scelti a caso dalle coppie che ci vivono, ma in verità sono orchestrati da una sorta di coscienza condivisa (simile a quella di Jung, più o meno) e quindi dall'umanità intera.
 \
-_Nelle storie popolari che ti scivolano addosso tutta la vita, ma poi arriva il giorno che scambi due parole con il matto del villagio e ti sembra di vivere in una fiaba e un po' lo invidi.
+_Nelle storie popolari che ti scivolano addosso tutta la vita, ma poi arriva il giorno che scambi due parole con il matto del villaggio e ti sembra di vivere in una fiaba e un po' lo invidi.
 \
 _Nel continuo sforzo umano di incontrarsi, rifiutando che tempismo e distanza siano forze più ponderanti dell'amore e dell'amicizia.
 \
