@@ -4,6 +4,7 @@ date: "2024-04-11T16:57:27+02:00"
 description: Ciò che l'io ha di unico si cela in ciò che l'uomo ha di inimmaginabile
 draft: false
 tags: ["daily"]
+image: posts/daily1/images/analog.webp
 cover:
   image: images/analog.webp
   caption: "foto fatta in maniera molto illegale mentre stavo guidando"
