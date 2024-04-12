@@ -1,0 +1,61 @@
+<div id="audio-div" {{ with .Get "class" }}class="{{ . }}"{{ end }}{{ with .Get "width" }}width="{{ . }}"{{ end }}>
+    <img style="margin: 0;" {{ with .Get "img-src" }}src="{{ . }}"{{ end }}{{ with .Get "img-alt" }}alt="{{ . }}"{{ end }}>
+    <div id="p-div">
+        {{ with .Get "caption" }}<p>{{ . }}</p>{{ end }}
+    </div>
+    <audio controls preload='{{ .Get "preload" | default "metadata" }}' style="width: 100%; filter: invert(100%);">
+        {{ with .Get "src" }}<source src="{{ .  | relURL }}" type="audio/mpeg">{{ end }}
+    </audio>
+</div>
+
+<style>
+    #audio-div {
+        background-color: #0E0C0B;
+        width: 100%;
+        max-height: 50px;
+        display: flex;
+        align-items: center;
+        border-radius: 4px;
+        margin-block: 5px;
+        overflow: hidden;
+
+    }
+    
+    #audio-div > img {
+        height: 50px;
+        object-fit: fill;
+        overflow: hidden;
+    }
+
+    #p-div {
+        border: 1px solid white ;
+        width: fit-content;
+        height: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    #audio-div > div > p {
+        width: fit-content ;
+        color: white;
+        text-align: left;
+        white-space: nowrap;
+    }
+
+    audio {
+        width: 100%;
+        height: 30px;
+    }
+
+    audio::-webkit-media-controls-panel {
+        border-radius: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: fit-content;
+    }
+
+    audio::-webkit-media-controls-time-remaining-display {
+        display: none;
+    }
+</style>
