@@ -7,7 +7,7 @@ tags: ['daily', 'poesie']
 image: images/profile.jpg
 ---
 
-Ho fatto un sacco di cazzate nella vita. Ho detto bugie. Ho evitato discorsi. Ho incolpato le persone sbagliate. Ho tradito fiducie. Ho infranto promesse. Ho sbagliato sapendo di farlo. E poi l'ho fatto di nuovo.
+Ho fatto un sacco di cazzate nella vita. Ho detto bugie. Ho evitato discorsi. Ho incolpato le persone ingiustamente. Ho tradito fiducie. Ho infranto promesse. Ho sbagliato sapendo di farlo. E poi l'ho fatto di nuovo.
 
 Ho fatto lo stronzo con ragazzi e ragazze, poi ho dato la colpa a mio padre. E davvero, ho costruito un portfolio di buone ragioni per tenermi alla larga. E tu lo sai.
 

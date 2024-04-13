@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://paco-folli.vercel.app/tags/daily/</loc>
+    <lastmod>2024-04-12T16:58:22+02:00</lastmod>
+  </url><url>
     <loc>https://paco-folli.vercel.app/posts/mani/</loc>
     <lastmod>2024-04-12T16:58:22+02:00</lastmod>
   </url><url>
     <loc>https://paco-folli.vercel.app/</loc>
     <lastmod>2024-04-12T16:58:22+02:00</lastmod>
   </url><url>
+    <loc>https://paco-folli.vercel.app/tags/poesie/</loc>
+    <lastmod>2024-04-12T16:58:22+02:00</lastmod>
+  </url><url>
     <loc>https://paco-folli.vercel.app/posts/</loc>
     <lastmod>2024-04-12T16:58:22+02:00</lastmod>
   </url><url>
-    <loc>https://paco-folli.vercel.app/tags/daily/</loc>
-    <lastmod>2024-04-11T16:57:27+02:00</lastmod>
+    <loc>https://paco-folli.vercel.app/tags/</loc>
+    <lastmod>2024-04-12T16:58:22+02:00</lastmod>
   </url><url>
     <loc>https://paco-folli.vercel.app/posts/daily1/</loc>
-    <lastmod>2024-04-11T16:57:27+02:00</lastmod>
-  </url><url>
-    <loc>https://paco-folli.vercel.app/tags/</loc>
     <lastmod>2024-04-11T16:57:27+02:00</lastmod>
   </url><url>
     <loc>https://paco-folli.vercel.app/posts/xp/</loc>
@@ -36,9 +39,6 @@
     <lastmod>2024-01-05T23:23:12+02:00</lastmod>
   </url><url>
     <loc>https://paco-folli.vercel.app/posts/pittinger/</loc>
-    <lastmod>2024-01-04T09:09:07+01:00</lastmod>
-  </url><url>
-    <loc>https://paco-folli.vercel.app/tags/poesie/</loc>
     <lastmod>2024-01-04T09:09:07+01:00</lastmod>
   </url><url>
     <loc>https://paco-folli.vercel.app/posts/partenza/</loc>
