@@ -1,9 +1,9 @@
 ---
-title: 'Ci sono le tue mani'
-description: 'Post di paco'
+title: 'daily n.2'
+description: 'Ci sono le tue mani'
 date: 2024-04-12T16:58:22+02:00
 draft: false
-tags: ['']
+tags: ['daily', 'poesie']
 image: images/profile.jpg
 ---
 
