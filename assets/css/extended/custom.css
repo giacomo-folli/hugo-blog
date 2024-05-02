@@ -66,18 +66,6 @@
   margin: auto 0;
 }
 
-.footer {
-  max-width: 100%;
-  text-align: right;
-  padding: 0 30px;
-  line-height: 0px;
-  background-color: red;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-}
-
 #menu {
   margin: auto 10px auto var(--gap);
 }
@@ -85,5 +73,18 @@
 @media screen and (max-width: 800px) {
   #menu {
     margin: 0 var(--gap);
+  }
+}
+
+@media screen and (min-width: 450px) {
+  .footer {
+    max-width: 100%;
+    text-align: right;
+    padding: 0 30px;
+    line-height: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
   }
 }
