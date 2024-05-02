@@ -2,6 +2,7 @@
 title: "Pittinger"
 date: "2024-01-04T09:09:07+01:00"
 tags: ['slovenia', 'poesie']
+draft: true
 ---
 
 Una poesia dentro a Javascript

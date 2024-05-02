@@ -2,7 +2,7 @@
 title: 'daily n.2'
 description: 'Ci sono le tue mani'
 date: 2024-04-12T16:58:22+02:00
-draft: false
+draft: true
 tags: ['daily', 'poesie']
 image: images/profile.jpg
 ---

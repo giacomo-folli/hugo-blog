@@ -4,7 +4,7 @@ description: 'Post di paco'
 date: {{ .Date }}
 draft: true
 tags: ['']
-image: 'posts/POST_NAME/images/IMAGE_NAME'
+image: 'posts/{{ .File.ContentBaseName }}/images/IMAGE_NAME'
 cover:
   image: 
   caption:

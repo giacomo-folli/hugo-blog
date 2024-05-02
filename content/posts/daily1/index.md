@@ -2,7 +2,7 @@
 title: "daily n.1"
 date: "2024-04-11T16:57:27+02:00"
 description: Ciò che l'io ha di unico si cela in ciò che l'uomo ha di inimmaginabile
-draft: false
+draft: true
 tags: ["daily"]
 image: posts/daily1/images/analog.webp
 cover:

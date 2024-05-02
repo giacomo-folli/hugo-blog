@@ -2,30 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Daily on paco.folli</title>
-    <link>https://paco-folli.vercel.app/tags/daily/</link>
+    <link>http://localhost:1313/tags/daily/</link>
     <description>Recent content in Daily on paco.folli</description>
     <image>
       <title>paco.folli</title>
-      <url>https://paco-folli.vercel.app/images/profile.jpg</url>
-      <link>https://paco-folli.vercel.app/images/profile.jpg</link>
+      <url>http://localhost:1313/images/profile.jpg</url>
+      <link>http://localhost:1313/images/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Apr 2024 16:58:22 +0200</lastBuildDate>
-    <atom:link href="https://paco-folli.vercel.app/tags/daily/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/daily/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>daily n.2</title>
-      <link>https://paco-folli.vercel.app/posts/mani/</link>
+      <link>http://localhost:1313/posts/mani/</link>
       <pubDate>Fri, 12 Apr 2024 16:58:22 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/mani/</guid>
+      <guid>http://localhost:1313/posts/mani/</guid>
       <description>Ci sono le tue mani</description>
     </item>
     <item>
       <title>daily n.1</title>
-      <link>https://paco-folli.vercel.app/posts/daily1/</link>
+      <link>http://localhost:1313/posts/daily1/</link>
       <pubDate>Thu, 11 Apr 2024 16:57:27 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/daily1/</guid>
+      <guid>http://localhost:1313/posts/daily1/</guid>
       <description>Ciò che l&amp;#39;io ha di unico si cela in ciò che l&amp;#39;uomo ha di inimmaginabile</description>
+    </item>
+    <item>
+      <title>Daily2</title>
+      <link>http://localhost:1313/posts/daily2/</link>
+      <pubDate>Sun, 04 Feb 2024 16:45:14 +0200</pubDate>
+      <guid>http://localhost:1313/posts/daily2/</guid>
+      <description>ultimamente mi guardo molto allo specchio. non per un senso di curiosità, nè con l&amp;rsquo;obiettivo di scoprire qualcosa di nuovo. no, ultimamente mi guardo di più allo specchio sperando di apprezzarmi. cerco dei motivi per considerarmi bello, o magari, desiderabile.
+io periodicamente faccio così. crolla qualche muro e mi sento scoperto, esposto al mondo che, automaticamente, etichetto come minaccia. ultimamente mi guardo spesso in faccia perchè alcuni la considerano la cosa più bella che io abbia e mi osservo a lungo, cercando di capire cosa effettivamente ci trovino di bello.</description>
     </item>
   </channel>
 </rss>

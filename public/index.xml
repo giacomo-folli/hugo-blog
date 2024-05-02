@@ -11,76 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Apr 2024 16:58:22 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 14:17:01 +0200</lastBuildDate>
     <atom:link href="https://paco-folli.vercel.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>daily n.2</title>
-      <link>https://paco-folli.vercel.app/posts/mani/</link>
-      <pubDate>Fri, 12 Apr 2024 16:58:22 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/mani/</guid>
-      <description>Ci sono le tue mani</description>
-    </item>
-    <item>
-      <title>daily n.1</title>
-      <link>https://paco-folli.vercel.app/posts/daily1/</link>
-      <pubDate>Thu, 11 Apr 2024 16:57:27 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/daily1/</guid>
-      <description>Ciò che l&amp;#39;io ha di unico si cela in ciò che l&amp;#39;uomo ha di inimmaginabile</description>
-    </item>
-    <item>
-      <title>XP e propositi</title>
-      <link>https://paco-folli.vercel.app/posts/xp/</link>
-      <pubDate>Thu, 11 Jan 2024 23:43:55 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/xp/</guid>
-      <description>E come sempre mi sto cagando sotto :) Sono 14.15 e sono in ufficio a cazzeggiare. Le mie quattro ore giornaliere le ho esaurite stamattina, ma non ho troppa voglia di tornare a casa e non so nemmeno se posso, visto che c&amp;rsquo;è mia sorella che probabilmente si aspetterà un passaggio al ritorno. Quindi la dovrò aspettare. Ma non so. Non ho voglia di chiederglielo.
-Sono un po&amp;rsquo; in sbatti perché ancora non ho soldi per domani e non ho voglia di litigare con i miei per ricavarci 50 euro.</description>
-    </item>
-    <item>
-      <title>Gli ultimi due mesi</title>
-      <link>https://paco-folli.vercel.app/posts/gli-ultimi-due-mesi/</link>
-      <pubDate>Thu, 11 Jan 2024 23:38:01 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/gli-ultimi-due-mesi/</guid>
-      <description>Negli ultimi due mesi ho lavorato come full-stack developer. Dove? In una software house piacentina di nome LH, ovvero Likable Hair (sospetto sia frutto di uno dei tanti random generator su internet). Il ragazzo di mia sorella, Gabbo, uno dei tre fondatori, un giorno mi ha chiamato dicendomi che stavano cercando nuova gente. Io, che fino ad allora non avevo mai lavorato nel campo, ero un po&amp;rsquo; spaventato dal tuffarmi a capofitto in mezzo a responsabilità e compiti sconosciuti; però alla fine una sfida è una sfida, quindi ho accettato.</description>
-    </item>
-    <item>
-      <title>Lubjanka</title>
-      <link>https://paco-folli.vercel.app/posts/lubjanks/</link>
-      <pubDate>Sat, 06 Jan 2024 23:32:01 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/lubjanks/</guid>
-      <description>Siamo arrivati alla capitale che erano le 9 passate. Pioveva copiosamente, infatti la prima cosa da fare è stata infilare tutta la scarpa in una pozzanghera grigia. Mi sono maledetto in silenzio.
-Qui non c&amp;rsquo;è molto da vedere. Un castello, una piazza, la funicolare, i vicoli e le chiese. Rimane comunque un posto accogliente, un luogo comodo in cui passeggiare. Forse l&amp;rsquo;unica capitale di cui potresti dirlo.
-Abbiamo pranzato in ristorante.</description>
-    </item>
-    <item>
-      <title>Radovljica</title>
-      <link>https://paco-folli.vercel.app/posts/radovljica/</link>
-      <pubDate>Fri, 05 Jan 2024 23:23:12 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/radovljica/</guid>
-      <description>Ci siamo svegliati tutti tardi. Verso le 10.00, a parte diego che doveva studiare per l&amp;rsquo;esame dell&#39;8. Abbiamo mangiato biscotti della marca Budget, latte e uova strapazzate ed ora stiamo per uscire. Siamo diretti alla città del miele, un piccolo borgo antico, famosa per i suoi alveari.
-Radovljica è bellissima. Divisa in quartiere vecchio e nuovo. Molto intima e tranquilla, lontana dai ritmi dei turisti. Ho mangiato fritto misto con Diego.</description>
-    </item>
-    <item>
-      <title>Pittinger</title>
-      <link>https://paco-folli.vercel.app/posts/pittinger/</link>
-      <pubDate>Thu, 04 Jan 2024 09:09:07 +0100</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/pittinger/</guid>
-      <description>Una poesia dentro a Javascript
-function returnLines(lines) { return lines.join(&amp;#34; &amp;#34;); } let verse_1 = [ &amp;#34;La birra Pittinger è una chiara leggera che sembra fanta,\n&amp;#34;, &amp;#34;non rimane sullo stomaco e non la senti\n&amp;#34;, &amp;#34;quando ti alzi dubbioso per andare al bagno.\n&amp;#34;, &amp;#34;\n&amp;#34;, ]; let verse_2 = [ &amp;#34;È una birra slovena\n&amp;#34;, &amp;#34;con la latta nera e grigia e scritte che non riconosco,\n&amp;#34;, &amp;#34;4,2%, confezionata in Austria.\n&amp;#34;, &amp;#34;Ne abbiamo bevute 5\n&amp;#34;, &amp;#34;in cinque, condividendone ognuna.</description>
-    </item>
-    <item>
-      <title>Partenza</title>
-      <link>https://paco-folli.vercel.app/posts/partenza/</link>
-      <pubDate>Wed, 03 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/partenza/</guid>
-      <description>Oggi preparativi per il viaggio. Da un po&amp;rsquo; di tempo andavamo avanti a contarcela questa storia del viaggio in pulmino. Io pensavo fosse una delle solite cose che si dicono per provare il brivido del perchè no?, però poi non si fanno mai; invece mi ritrovo a scrivere queste parole per postporre l&amp;rsquo;ineluttabile fatica di fare la valigia(che comunque per me sarà uno zaino).
-Da un po&amp;rsquo;, dicevo, andavamo avanti con questa storia e alla fine ci siamo decisi un po&amp;rsquo; per caso: abbiamo noleggiato un pulmino da sei, una casa (con recensioni preoccupanti) in Slovenia e abbiamo chiesto a ChatGPT di organizzarci il viaggio.</description>
-    </item>
-    <item>
-      <title>Fuoco, percorse e leggerezza</title>
-      <link>https://paco-folli.vercel.app/posts/fuoco-percorsi-leggerezza/</link>
-      <pubDate>Sun, 16 Apr 2023 23:47:10 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/fuoco-percorsi-leggerezza/</guid>
-      <description>il fuoco in queste sere di gennaio, in cui mi ritrovo sempre i piedi gelidi, mi ritrova ad aspettare solo una cosa: il fuoco. quel lento accendersi delle fiamme, che a mano a mano illuminano sempre meglio la stanza, scandisce in maniera inequivocabile il passare delle giornate. come quando in vacanza misuriamo il tempo in giorni che restano prima di tornare alla vita di tutti i giorni, in questi giorno misuro l&amp;rsquo;avanzare sulla luce che esce dal mio camino la sera.</description>
+      <title>Advanced Typescript</title>
+      <link>https://paco-folli.vercel.app/posts/advanced-typescript/</link>
+      <pubDate>Sat, 20 Apr 2024 14:17:01 +0200</pubDate>
+      <guid>https://paco-folli.vercel.app/posts/advanced-typescript/</guid>
+      <description>Lavorare in JavaScript con i vantaggi offerti dalla tipizzazione forte.</description>
     </item>
   </channel>
 </rss>

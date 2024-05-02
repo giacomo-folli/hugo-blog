@@ -2,6 +2,7 @@
 title: 'Partenza'
 date: '2024-01-03T07:07:07+01:00'
 tags: ['slovenia']
+draft: true
 cover:
   image: https://cdn.masto.host/mastodonuno/media_attachments/files/111/721/480/571/537/490/small/89e9b7253061b14b.jpg
   caption: "I bro in posa"

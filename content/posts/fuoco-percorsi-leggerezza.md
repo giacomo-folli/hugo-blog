@@ -1,7 +1,7 @@
 ---
 title: 'Fuoco, percorse e leggerezza'
 date: 2023-04-16T23:47:10+02:00
-draft: false
+draft: true
 ---
 
 ### il fuoco

@@ -1,7 +1,7 @@
 ---
 title: 'XP e propositi'
 date: '2024-01-11T23:43:55+02:00'
-draft: false
+draft: true
 ---
 
 ### E come sempre mi sto cagando sotto :)

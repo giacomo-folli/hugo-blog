@@ -1,7 +1,7 @@
 ---
 title: 'Gli ultimi due mesi'
 date: '2024-01-11T23:38:01+02:00'
-draft: false
+draft: true
 ---
 
 ![amici](https://images.unsplash.com/photo-1704894097529-15b553f817e7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
