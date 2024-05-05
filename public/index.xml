@@ -20,12 +20,5 @@
       <guid>https://paco-folli.vercel.app/posts/advanced-typescript/</guid>
       <description>Lavorare in JavaScript con i vantaggi offerti dalla tipizzazione forte.</description>
     </item>
-    <item>
-      <title>Projects</title>
-      <link>https://paco-folli.vercel.app/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://paco-folli.vercel.app/projects/</guid>
-      <description>projects</description>
-    </item>
   </channel>
 </rss>
