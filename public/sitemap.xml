@@ -2,25 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/advanced-typescript/</loc>
+    <loc>https://paco-folli.vercel.app/</loc>
+    <lastmod>2024-05-03T09:09:37+02:00</lastmod>
+  </url><url>
+    <loc>https://paco-folli.vercel.app/posts/</loc>
+    <lastmod>2024-05-03T09:09:37+02:00</lastmod>
+  </url><url>
+    <loc>https://paco-folli.vercel.app/posts/advanced-typescript/</loc>
     <lastmod>2024-04-20T14:17:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://paco-folli.vercel.app/tags/</loc>
     <lastmod>2024-04-20T14:17:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://paco-folli.vercel.app/tags/typescript/</loc>
     <lastmod>2024-04-20T14:17:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-04-20T14:17:01+02:00</lastmod>
+    <loc>https://paco-folli.vercel.app/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/typescript/</loc>
-    <lastmod>2024-04-20T14:17:01+02:00</lastmod>
+    <loc>https://paco-folli.vercel.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://paco-folli.vercel.app/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://paco-folli.vercel.app/search/</loc>
   </url>
 </urlset>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on paco.folli</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://paco-folli.vercel.app/posts/</link>
     <description>Recent content in Posts on paco.folli</description>
     <image>
       <title>paco.folli</title>
-      <url>http://localhost:1313/images/profile.jpg</url>
-      <link>http://localhost:1313/images/profile.jpg</link>
+      <url>https://paco-folli.vercel.app/images/profile.jpg</url>
+      <link>https://paco-folli.vercel.app/images/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Apr 2024 14:17:01 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://paco-folli.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced Typescript</title>
-      <link>http://localhost:1313/posts/advanced-typescript/</link>
+      <link>https://paco-folli.vercel.app/posts/advanced-typescript/</link>
       <pubDate>Sat, 20 Apr 2024 14:17:01 +0200</pubDate>
-      <guid>http://localhost:1313/posts/advanced-typescript/</guid>
+      <guid>https://paco-folli.vercel.app/posts/advanced-typescript/</guid>
       <description>Lavorare in JavaScript con i vantaggi offerti dalla tipizzazione forte.</description>
     </item>
   </channel>
