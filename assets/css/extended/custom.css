@@ -53,9 +53,7 @@
   background-position: center;
   background-size: contain;
   background-blend-mode: multiply;
-  filter: contrast(105%) brightness(110%);
-  background-image: url(/images/profile.jpg),
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.90' numOctaves='6' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E%0A");
+  background-image: url(/images/profile.jpg);
 }
 
 .nav {
