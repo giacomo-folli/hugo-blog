@@ -1,0 +1,72 @@
+baseURL: https://pacof.vercel.app
+title: paco.folli
+theme: PaperMod
+languageCode: it-IT
+
+params:
+  env: production
+  author: Giacomo Folli
+  description: Paco Folli - Blog
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: false
+  images:
+    - /images/profile.jpg
+
+  ShareButtons:
+    - telegram
+    - twitter
+    - whatsapp
+
+  profileMode:
+    enabled: true
+    title: Giacomo Folli
+    subtitle: Fullstack developer & some other weird things
+    imageUrl: /images/profile.jpg
+    imageTitle: Giacomo Folli
+    imageWidth: 170
+    imageHeight: 170
+
+  socialIcons:
+    - name: Soundcloud
+      url: https://soundcloud.com/itspacoti
+    - name: Instagram
+      url: https://www.instagram.com/paco.nocap
+    - name: Github
+      url: https://github.com/giacomo-folli
+    - name: Youtube
+      url: https://www.youtube.com/@EnricoSpazio
+    - name: Substack
+      url: https://altrove.substack.com/
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - identifier: blog
+      name: blog
+      url: /blog
+      weight: 10
+    - identifier: projects
+      name: projects
+      url: /projects
+      weight: 20
+    - identifier: search
+      name: search
+      url: /search
+      weight: 30
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
