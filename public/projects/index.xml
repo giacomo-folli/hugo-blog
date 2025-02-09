@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on paco.folli</title>
-    <link>https://paco-folli.vercel.app/projects/</link>
+    <link>https://pacof.vercel.app/projects/</link>
     <description>Recent content in Projects on paco.folli</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://paco-folli.vercel.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pacof.vercel.app/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

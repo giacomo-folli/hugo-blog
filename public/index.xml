@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paco.folli</title>
-    <link>https://paco-folli.vercel.app/</link>
+    <link>https://pacof.vercel.app/</link>
     <description>Recent content on paco.folli</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Apr 2024 14:17:01 +0200</lastBuildDate>
-    <atom:link href="https://paco-folli.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pacof.vercel.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced Typescript</title>
-      <link>https://paco-folli.vercel.app/posts/advanced-typescript/</link>
+      <link>https://pacof.vercel.app/posts/advanced-typescript/</link>
       <pubDate>Sat, 20 Apr 2024 14:17:01 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/advanced-typescript/</guid>
+      <guid>https://pacof.vercel.app/posts/advanced-typescript/</guid>
       <description>&lt;h2 id=&#34;0-breve-introduzione&#34;&gt;0. Breve Introduzione&lt;/h2&gt;&#xA;&lt;p&gt;TypeScript è un linguaggio di programmazione che nasce come superset di JavaScript. Questo significa che comprende tutta la sintassi e le funzionalità di JavaScript, aggiungendo però ulteriori caratteristiche. Il principale valore aggiunto di TypeScript rispetto a Js è la tipizzazione statica, cioè il controllo dei tipi al momento della compilazione del codice. Il controllo dei tipi è il modo in cui un linguaggio di programmazione conferma che tutte le operazioni hanno ricevuto il tipo di dati corretto per eseguire l&amp;rsquo;operazione.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
-      <link>https://paco-folli.vercel.app/blog/</link>
+      <link>https://pacof.vercel.app/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://paco-folli.vercel.app/blog/</guid>
+      <guid>https://pacof.vercel.app/blog/</guid>
       <description>blog</description>
     </item>
     <item>
       <title>Search</title>
-      <link>https://paco-folli.vercel.app/search/</link>
+      <link>https://pacof.vercel.app/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://paco-folli.vercel.app/search/</guid>
+      <guid>https://pacof.vercel.app/search/</guid>
       <description>search</description>
     </item>
   </channel>

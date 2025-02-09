@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typescript on paco.folli</title>
-    <link>https://paco-folli.vercel.app/tags/typescript/</link>
+    <link>https://pacof.vercel.app/tags/typescript/</link>
     <description>Recent content in Typescript on paco.folli</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Apr 2024 14:17:01 +0200</lastBuildDate>
-    <atom:link href="https://paco-folli.vercel.app/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pacof.vercel.app/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced Typescript</title>
-      <link>https://paco-folli.vercel.app/posts/advanced-typescript/</link>
+      <link>https://pacof.vercel.app/posts/advanced-typescript/</link>
       <pubDate>Sat, 20 Apr 2024 14:17:01 +0200</pubDate>
-      <guid>https://paco-folli.vercel.app/posts/advanced-typescript/</guid>
+      <guid>https://pacof.vercel.app/posts/advanced-typescript/</guid>
       <description>&lt;h2 id=&#34;0-breve-introduzione&#34;&gt;0. Breve Introduzione&lt;/h2&gt;&#xA;&lt;p&gt;TypeScript è un linguaggio di programmazione che nasce come superset di JavaScript. Questo significa che comprende tutta la sintassi e le funzionalità di JavaScript, aggiungendo però ulteriori caratteristiche. Il principale valore aggiunto di TypeScript rispetto a Js è la tipizzazione statica, cioè il controllo dei tipi al momento della compilazione del codice. Il controllo dei tipi è il modo in cui un linguaggio di programmazione conferma che tutte le operazioni hanno ricevuto il tipo di dati corretto per eseguire l&amp;rsquo;operazione.&lt;/p&gt;</description>
     </item>
   </channel>
