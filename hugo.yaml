@@ -1,6 +1,6 @@
 baseURL: https://pacof.vercel.app
 title: paco.folli
-theme: PaperMod
+theme: ["PaperMod"]
 languageCode: it-IT
 
 params:
