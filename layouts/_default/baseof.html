@@ -17,28 +17,29 @@
 {{- print " dark" }}
 {{- end -}}
 " id="top">
+
+    <script>
+        window.si =
+        window.si ||
+        function () {
+            (window.siq = window.siq || []).push(arguments);
+        };
+    </script>
+    <script defer src="/_vercel/speed-insights/script.js"></script>
+    <script>
+        window.va =
+        window.va ||
+        function () {
+            (window.vaq = window.vaq || []).push(arguments);
+        };
+    </script>
+    <script defer src="/_vercel/insights/script.js"></script>
+
     {{- partialCached "header.html" . .Page -}}
     <main class="main">
         {{- block "main" . }}{{ end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
-
-    <script>
-          window.si =
-            window.si ||
-            function () {
-              (window.siq = window.siq || []).push(arguments);
-            };
-        </script>
-        <script defer src="/_vercel/speed-insights/script.js"></script>
-        <script>
-          window.va =
-            window.va ||
-            function () {
-              (window.vaq = window.vaq || []).push(arguments);
-            };
-        </script>
-        <script defer src="/_vercel/insights/script.js"></script>
 </body>
 
 </html>
