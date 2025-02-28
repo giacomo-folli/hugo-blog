@@ -70,3 +70,9 @@ menu:
 module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
+
+sitemap:
+  changeFreq: ""
+  disable: false
+  filename: sitemap.xml
+  priority: -1
