@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 20 Apr 2024 14:17:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 16:30:19 +0200</lastBuildDate>
     <atom:link href="https://pacof.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sbam</title>
+      <link>https://pacof.vercel.app/projects/sbam/</link>
+      <pubDate>Tue, 04 Mar 2025 16:30:19 +0200</pubDate>
+      <guid>https://pacof.vercel.app/projects/sbam/</guid>
+      <description>A git-like versioning system in Python</description>
+    </item>
+    <item>
+      <title>gosh</title>
+      <link>https://pacof.vercel.app/projects/gosh/</link>
+      <pubDate>Tue, 04 Mar 2025 16:30:16 +0200</pubDate>
+      <guid>https://pacof.vercel.app/projects/gosh/</guid>
+      <description>Shell implementation in Golang</description>
+    </item>
     <item>
       <title>Advanced Typescript</title>
       <link>https://pacof.vercel.app/posts/advanced-typescript/</link>

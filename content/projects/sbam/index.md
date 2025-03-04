@@ -1,12 +1,12 @@
 ---
-title: '1'
-description: 'Post di paco'
-date: 2024-05-05T16:30:16+02:00
-draft: true
+title: 'sbam'
+description: 'A git-like versioning system in Python'
+date: 2025-03-04T16:30:19+02:00
+draft: false
 tags: ['']
-image: 'posts/1/images/IMAGE_NAME'
+image:
 cover:
-  image: 
+  image: projects/sbam/images/sbam.webp 
   caption:
 ---
 
